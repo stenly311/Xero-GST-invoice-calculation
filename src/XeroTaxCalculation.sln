@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XeroGSTTaxCalculation", "XeroGSTTaxCalculation\XeroGSTTaxCalculation.csproj", "{49F47E12-E0E3-4396-AA1E-AA4A8F96D5D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XeroGSTTaxCalculationTest", "XeroGSTTaxCalculationTest\XeroGSTTaxCalculationTest.csproj", "{C568B232-5CB8-4681-8BEE-D0FE9EDF4302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F47E12-E0E3-4396-AA1E-AA4A8F96D5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F47E12-E0E3-4396-AA1E-AA4A8F96D5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F47E12-E0E3-4396-AA1E-AA4A8F96D5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F47E12-E0E3-4396-AA1E-AA4A8F96D5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C568B232-5CB8-4681-8BEE-D0FE9EDF4302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C568B232-5CB8-4681-8BEE-D0FE9EDF4302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C568B232-5CB8-4681-8BEE-D0FE9EDF4302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C568B232-5CB8-4681-8BEE-D0FE9EDF4302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3786F44-0EDF-4357-A075-9A27C31DD089}
+	EndGlobalSection
+EndGlobal

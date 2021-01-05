@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Martin Stanik</Authors>
+    <Description>Helper library to calculate GST, Subtotal, and Total from invoice line items the same way as Xero is calculating it on their end.
+By using this library no price calculation variation by a couple of cents should be happening.</Description>
+    <PackageProjectUrl>https://github.com/stenly311/xero-invoice-calculation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stenly311/xero-invoice-calculation</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>xero, gst, tax, calculation</PackageTags>
+    <PackageReleaseNotes>- added GST calculation from line items price GST exclusive</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Copyright>Copyright © Martin Stanik 2021</Copyright>
+    <PackageIcon>tax-icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\pics\tax-icon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
