@@ -6,8 +6,8 @@
     <Authors>Martin Stanik</Authors>
     <Description>Helper library to calculate GST, Subtotal, and Total from invoice line items the same way as Xero is calculating it on their end.
 By using this library no price calculation variation by a couple of cents should be happening.</Description>
-    <PackageProjectUrl>https://github.com/stenly311/xero-invoice-calculation</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/stenly311/xero-invoice-calculation</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/stenly311/Xero-GST-invoice-calculation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stenly311/Xero-GST-invoice-calculation</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
     <PackageTags>xero, gst, tax, calculation</PackageTags>
     <PackageReleaseNotes>- added GST calculation from line items price GST inclusive</PackageReleaseNotes>
