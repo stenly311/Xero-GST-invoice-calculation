@@ -1,7 +1,7 @@
 # Xero invoice GST calculation
-Use for any system integrating with Xero API services to generate an invoice from charges (line items)
+Use for any system integrating with Xero API services to generate an invoice from charges (line items).
 
-Calculate your invoice GST subtotal, total and GST same way as Xero does.
+Calculate your invoice GST subtotal, total and GST same way as Xero does. Use line item price with GST inclusive or exclusive.
 
 ## Quick quide of how to use the nuget package in code
 
