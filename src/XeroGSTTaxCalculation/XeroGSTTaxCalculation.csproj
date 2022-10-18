@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Martin Stanik</Authors>
     <Description>Helper library to calculate GST, Subtotal, and Total from invoice line items the same way as Xero is calculating it on their end.
