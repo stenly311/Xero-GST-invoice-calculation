@@ -10,18 +10,23 @@ By using this library no price calculation variation by a couple of cents should
     <RepositoryUrl>https://github.com/stenly311/Xero-GST-invoice-calculation</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
     <PackageTags>xero, gst, tax, calculation</PackageTags>
-    <PackageReleaseNotes>- added GST calculation from line items price GST inclusive</PackageReleaseNotes>
+    <PackageReleaseNotes>- upgrading to NET6</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <Copyright>Copyright © Martin Stanik 2021</Copyright>
+    <Copyright>Copyright © Martin Stanik 2022</Copyright>
     <PackageIcon>tax-icon.png</PackageIcon>
-    <Version>1.1.0</Version>
+    <Version>1.2.0</Version>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\pics\tax-icon.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
     </None>
   </ItemGroup>
 
